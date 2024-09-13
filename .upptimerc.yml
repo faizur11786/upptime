@@ -11,6 +11,12 @@ sites:
     url: https://payapp2.com
   - name: Aqarchain.io
     url: https://aqarchain.io
+  - name: Eccb 100
+    url: https://eccb100.com
+  - name: Payapp2 Link
+    url: https://link.payapp2.com
+  - name: Console Sokos
+    url: https://console.sokos.io
   
 
 status-website:
@@ -19,8 +25,6 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://cms.smartchain.me/uploads/smartchain_logo_30dc6795ef.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
