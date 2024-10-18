@@ -1,7 +1,7 @@
 url: https://dapp.sokos.io
-status: up
-code: 200
-responseTime: 1413
-lastUpdated: 2024-10-17T23:03:39.599Z
+status: down
+code: 502
+responseTime: 4454
+lastUpdated: 2024-10-18T06:54:54.845Z
 startTime: 2024-09-13T08:13:37.865Z
 generator: Upptime <https://github.com/upptime/upptime>
